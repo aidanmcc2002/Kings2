@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kings</string>
+    <string name="flip_card">Flip Card!</string>
+    <string name="todo">TODO</string>
+    <string name="press_the_button_to_flip_next_card">Press the button to flip next card!</string>
+</resources>
